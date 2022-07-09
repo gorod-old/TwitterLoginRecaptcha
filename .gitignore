@@ -1,0 +1,17 @@
+venv
+text_files
+dist
+build
+*.spec
+*.log
+*.json
+.credentials
+.encrypted
+.env
+*.key
+*.iml
+*.xml
+*.idea
+chromedriver
+Downloads
+downloads
